@@ -1,0 +1,17 @@
+Model,Type,Output,Time Taken (s)
+facebook/bart-large-cnn,Summarization,The paper discusses the results of a study which explored advanced learners of English. The data were collected from 20 students by means of a semi -structured interview. The results of the study demonstrated that some subjects manifested heightened awareness of the role of mobile devices in their learning endeavors.,19.31
+t5-small,Summarization,"the paper discusses the results of a study which explored advanced learners of English engagement with their mobile devices to develop learning experiences . the paper was published in the EUROCALL Review, volume 25, no. 2, September 2017 18 . a research paper aimed at developing learning experiences that advanced learners use of mobile devices for the study .",4.21
+t5-base,Summarization,"the EUROCALL Review, Volume 25, No. 2, September 2017 18 Research paper A look at advanced learners’ use of mobile devices for English language study: Insights from interview data Mariusz Kruk University of Zielona Gora, Poland . the paper discusses the results of a study which explored advanced learners of English engagement with their mobile devices to develop learning experiences that mesmerize learners .",21.24
+t5-large,Summarization,"advanced learners’ use of mobile devices for english language study: Insights from interview data Mariusz Kruk, university of Zielona Gora, poland . study explored advanced learners of english engagement with their mobile devices to develop learning experiences that measurably improve their language skills .",89.76
+google/pegasus-xsum,Summarization,"A look at advanced learners’ use of mobile devices for English language study: Insights from interview data Mariusz Kruk University of Zielona Gora, Poland, 2017-09-18Categories: English, research, 888-282-0476, 888-282-0476, 888-282-0476, 888-282-0476, 888-282-0476, 888-282-0476, 888-282-0476, 888-282-0476, 888-282-0476, 888-282-0476 888-282-0476,, 888-282-0476 888-282-0476,, 888-282-0476, 888-282-0476,, 888-282-0476, 888-282-0476, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,,, 888-282-0476,, 888-282-0476,,, 888-282-0476,, 888-282-0476,, 888-282-0476,, 888-282-0476,,, 888-282-0476,,, 888-282-0476,,, 888-282-0476,,, 888-282-0476,,, 888-282-0476,,, 888-282-0476",259.79
+flan-t5-base,Summarization,"Error: flan-t5-base is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`",N/A
+deepset/roberta-base-squad2,Question-Answering,The paper discusses the results of a study,10.73
+bert-large-uncased-whole-word-masking-finetuned-squad,Question-Answering,Abstract,38.05
+distilbert-base-cased-distilled-squad,Question-Answering,"discusses the results of a study which explored advanced learners of English 
+engagement",7.53
+microsoft/deberta-v3-large,Question-Answering,"Error: 
+ requires the protobuf library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+",N/A
